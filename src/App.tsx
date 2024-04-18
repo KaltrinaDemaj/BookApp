@@ -3,6 +3,7 @@ import './App.css';
 import { Navbar } from './layouts/NavbarAndFooter/Navbar';
 import { ExoloreTopBooks } from './layouts/Home Page/ExploreTopBooks';
 import { Carousel } from './layouts/Home Page/Carousel';
+import { Heros } from './layouts/Home Page/Heros';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar/>
       <ExoloreTopBooks/>
       <Carousel/>
+      <Heros/>
     </div>
   );
 }
