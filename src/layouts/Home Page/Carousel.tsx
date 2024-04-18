@@ -11,6 +11,9 @@ export const Carousel = () => {
                 <div className='carousel-inner'>
                     <div className='carousel-item active'>
                         <div className='row d-flex justify-content-center align-items-center'>
+                           
+                           
+                           <div className='carousel-item'></div>
                             <div className='col-xs-6 col-sm-6 col-md-4 col-lg-3 mb-3'>
                                 <div className='text-center'>
                                     <img 
